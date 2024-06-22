@@ -1,0 +1,16 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore data files
+data/*.csv
+data/*.zip
+
+# Ignore results
+results/*
+
+# Ignore system files
+.DS_Store
+Thumbs.db
