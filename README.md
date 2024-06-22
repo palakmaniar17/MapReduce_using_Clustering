@@ -1,7 +1,7 @@
 # MapReduce_using_Clustering
 The following is the application of Map Reduce using KMeans Clustering in Hadoop using the fundamentals of Map and Reduce with the help of AWS. 
 
-This repository contains the final project for CSC555, which includes implementing k-means clustering and a BloomFilter-based 2-way map-side join using Python and Hadoop.
+This repository contains the project which includes implementing k-means clustering and a BloomFilter-based 2-way map-side join using Python and Hadoop.
 
 ## Project Structure
 
